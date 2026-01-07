@@ -8,7 +8,7 @@
 This project implements **Linear Regression from first principles**, using NumPy for numerical computation.  
 The goal is to study the optimization behavior of gradient descent, analyze convergence properties, and understand cost minimization while predicting medical insurance expenses.
 
-All learning logic—including cost computation, parameter updates, and early stopping—is implemented manually without relying on machine learning libraries.
+All learning logic including cost computation, parameter updates, and early stopping is implemented manually without relying on machine learning libraries.
 
 ---
 
@@ -106,7 +106,7 @@ pip install -r requirements.txt
 jupyter notebook project1.ipynb
 ```
 
-All steps—from preprocessing to convergence visualization—are contained within the notebook.
+All steps from preprocessing to convergence visualization are contained within the notebook.
 
 ---
 
